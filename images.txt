@@ -3,4 +3,6 @@ neilpang/acme.sh
 mongo:jammy
 nginx:stable-otel
 node:current
+jpillora/dnsmasq
+andyshinn/dnsmasq
 # --platform=linux/arm64 xiaoyaliu/alist
